@@ -11,7 +11,7 @@ export default function App() {
           This project was coded by {""} 
           <a href="https://incomparable-pudding-dfb1e2.netlify.app/" target="_blank" rel="noreferrer"> Damaris Higi</a> {""}
           and is {""}
-        <a href="https://github.com/higidamah/react-weather-search-app" target="_blank" rel="noreferrer">
+        <a href="https://github.com/higidamah/react-app" target="_blank" rel="noreferrer">
          open-sourced on Github
         </a>
         </footer>
